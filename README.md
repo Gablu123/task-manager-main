@@ -69,7 +69,7 @@ npx expo start
 
 ## 📦 APK Support
 
-If you face any issues with environment setup, an **APK file** is included in the repository for direct installation and testing. (task_manager_android.apk)
+If you face any issues with environment setup, an **APK file** is included in the repository release for direct installation and testing. (Task Manager.apk)
 
 ---
 
