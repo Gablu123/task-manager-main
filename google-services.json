@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28899275194",
+    "project_id": "task-manager-sagnik",
+    "storage_bucket": "task-manager-sagnik.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28899275194:android:30d52f1e303a3970022d83",
+        "android_client_info": {
+          "package_name": "com.sagnik26.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD81UQvUrORhT5c2nTDV8i6thCgYn87oWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
